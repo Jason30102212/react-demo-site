@@ -1,0 +1,15 @@
+.code-holder {
+  margin: auto;
+  width: 500px;
+}
+
+.code-snippet {
+  text-align: left;
+  border: 1px solid #eee;
+  box-shadow: 0 2px 2px #aaa;
+}
+
+.code-note {
+  border: 1px solid #eee;
+  box-shadow: 0 2px 2px #aaa;
+}
